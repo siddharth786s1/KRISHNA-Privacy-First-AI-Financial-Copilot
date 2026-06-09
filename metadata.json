@@ -1,0 +1,6 @@
+{
+  "name": "KRISHNA - Privacy-First AI Financial Copilot",
+  "description": "Privacy-First AI Financial Copilot using a Self-Correcting Multi-Agent System on bank statements, budgeting, compliance checks, and explanation pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
