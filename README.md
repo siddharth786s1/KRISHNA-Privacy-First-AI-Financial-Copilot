@@ -10,8 +10,10 @@
   </p>
 
   <!-- Screenshot placeholder (replace with actual image for demos) -->
+  <img width="1894" height="907" alt="image" src="https://github.com/user-attachments/assets/22e1bf89-5e88-40b2-8e9c-891abbf66962" />
+
   <p>
-    <img alt="KRISHNA Demo Screenshot" src="assets/screenshot-placeholder.png" width="900" />
+   
   </p>
 </div>
 
@@ -143,4 +145,3 @@ MIT
 
 ---
 
-If you want, I can now commit this change and update the todo list to mark the README step complete.
